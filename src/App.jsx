@@ -1,4 +1,4 @@
-import TemperatureConvertor from "./components/TemperatureConverter";
+import TemperatureConverter from "./components/TemperatureConverter";
 
 
 function App(){

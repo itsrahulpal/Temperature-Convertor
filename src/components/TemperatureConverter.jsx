@@ -39,7 +39,7 @@ const TemperatureConverter = () => {
         </button>
 
         <h1 className="text-3xl font-bold text-center mb-5 ">
-          🌡️Temperature Convertor
+          🌡️Temperature Converter
         </h1>
         <input
           type="number"
